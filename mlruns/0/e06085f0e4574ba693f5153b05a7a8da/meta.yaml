@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/e06085f0e4574ba693f5153b05a7a8da/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e06085f0e4574ba693f5153b05a7a8da
+run_name: fearless-bass-204
+run_uuid: e06085f0e4574ba693f5153b05a7a8da
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706366798858
+status: 1
+tags: []
+user_id: shind
